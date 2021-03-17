@@ -21,7 +21,7 @@ function App() {
 
   // Display the app home page hosted in Teams
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Route exact path="/privacy" component={Privacy} />
       <Route exact path="/termsofuse" component={TermsOfUse} />
       <Route exact path="/tab" component={Tab} />
