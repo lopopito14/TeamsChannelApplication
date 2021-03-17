@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "//lopopito14.github.io/TeamsChannelApplication/static/css/main.4bb3832d.chunk.css",
-    "main.js": "//lopopito14.github.io/TeamsChannelApplication/static/js/main.a77dca6f.chunk.js",
-    "main.js.map": "//lopopito14.github.io/TeamsChannelApplication/static/js/main.a77dca6f.chunk.js.map",
+    "main.js": "//lopopito14.github.io/TeamsChannelApplication/static/js/main.4b51fc7c.chunk.js",
+    "main.js.map": "//lopopito14.github.io/TeamsChannelApplication/static/js/main.4b51fc7c.chunk.js.map",
     "runtime-main.js": "//lopopito14.github.io/TeamsChannelApplication/static/js/runtime-main.cb0248e0.js",
     "runtime-main.js.map": "//lopopito14.github.io/TeamsChannelApplication/static/js/runtime-main.cb0248e0.js.map",
-    "static/js/2.3c382b7c.chunk.js": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.3c382b7c.chunk.js",
-    "static/js/2.3c382b7c.chunk.js.map": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.3c382b7c.chunk.js.map",
+    "static/js/2.b544995c.chunk.js": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.b544995c.chunk.js",
+    "static/js/2.b544995c.chunk.js.map": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.b544995c.chunk.js.map",
     "index.html": "//lopopito14.github.io/TeamsChannelApplication/index.html",
     "static/css/main.4bb3832d.chunk.css.map": "//lopopito14.github.io/TeamsChannelApplication/static/css/main.4bb3832d.chunk.css.map",
-    "static/js/2.3c382b7c.chunk.js.LICENSE.txt": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.3c382b7c.chunk.js.LICENSE.txt"
+    "static/js/2.b544995c.chunk.js.LICENSE.txt": "//lopopito14.github.io/TeamsChannelApplication/static/js/2.b544995c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb0248e0.js",
-    "static/js/2.3c382b7c.chunk.js",
+    "static/js/2.b544995c.chunk.js",
     "static/css/main.4bb3832d.chunk.css",
-    "static/js/main.a77dca6f.chunk.js"
+    "static/js/main.4b51fc7c.chunk.js"
   ]
 }
