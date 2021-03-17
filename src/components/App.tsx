@@ -10,6 +10,8 @@ import TermsOfUse from "./TermsOfUse";
 import Tab from "./Tab";
 import TabConfig from "./TabConfig";
 
+import Sound from 'react-sound';
+
 /**
  * The main app which handles the initialization and routing
  * of the app.
@@ -21,8 +23,23 @@ function App() {
 
   // Display the app home page hosted in Teams
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <div>
+        {/* <figure>
+          <figcaption>Listen to the T-Rex:</figcaption>
+          <audio
+            controls
+            src="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+          </audio>
+        </figure> */}
+        <Sound
+          url="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
+          playFromPosition={0}
+          playStatus='PLAYING'
+          autoLoad={true}
+        />
         <ul>
           <li><Link to="/privacy">Privacy</Link></li>
           <li><Link to="/termsofuse">TermsOfUse</Link></li>

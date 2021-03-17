@@ -18,6 +18,7 @@
         "react-dom": "^17.0.1",
         "react-router-dom": "^5.1.2",
         "react-scripts": "4.0.1",
+        "react-sound": "^1.2.0",
         "typescript": "^4.1.3"
     },
     "scripts": {
@@ -50,6 +51,7 @@
         "teamsAppId": "7484c398-4c7b-48eb-bdd3-205e2efa9be4"
     },
     "devDependencies": {
+        "@types/react-sound": "^1.2.2",
         "gh-pages": "^3.1.0"
     }
 }
