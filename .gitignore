@@ -13,7 +13,7 @@
 
 # production
 /build
-/docs
+/appPackage-origin
 /appPackage
 
 # misc
